@@ -1,0 +1,6 @@
+{
+  "name": "Caixa Financeiro - Grupo de Mulheres 3ª IPI do Natal",
+  "description": "Sistema financeiro inteligente para gestão de entradas, saídas, projeção de saldo e relatórios executivos para o Grupo de Mulheres da 3ª IPI do Natal com importação de planilha Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
